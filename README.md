@@ -1,12 +1,6 @@
 ### Olá 👋
 
-- 💻 Atualmente trabalho como Estagiário de TI
-  
-- 👨‍💻 Tecnológo em Análise e desenvolvimento de sistemas
-
-- 🌎 Tecnico em Redes de Computadores
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-farias)](https://github.com/anuraghazra/github-readme-stats)
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
