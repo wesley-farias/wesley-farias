@@ -21,4 +21,4 @@
   
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/wesley-farias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wesley-farias/wesley-farias/blob/output/github-contribution-grid-snake.svg)
