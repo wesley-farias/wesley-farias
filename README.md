@@ -1,4 +1,4 @@
-### Olá 👋
+### Hi, welcome in me profile! 👋 <img class=" lazyloaded" alt="Emoji 👋 | mão acenando | telegram | 60 x 60" data-src="/images/60/telegram/1f44b.gif" src="/images/60/telegram/1f44b.gif" loading="lazy" height="60" width="60">
 
 ![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-farias&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-farias&layout=compact)
