@@ -27,6 +27,13 @@
         <td align="center"><a href="https://github.com/wesley-farias#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-farias&theme=default"/></a><a href="https://github.com/wesley-farias#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-farias&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/wesley-farias#gh-light-mode-only"><img src="https://raw.githubusercontent.com/wesley-farias/wesley-farias/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a>
+        <td colspan="2" align="center">
+            <a href="https://github.com/wesley-farias#gh-light-mode-only">
+              <img src="https://raw.githubusercontent.com/wesley-farias/wesley-farias/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/>
+            </a>
+            <a href="https://github.com/vaibhavvikas#gh-dark-mode-only">
+               <img src="https://raw.githubusercontent.com/wesley-farias/wesley-farias/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>
+            </a>
+        </td>
     </tr>
 </table>
