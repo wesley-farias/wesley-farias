@@ -45,3 +45,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+- nome: gerar-jogo-snake-from-github-contribution-grid
+                usos: Platane/snk@v3.2.0
+            
