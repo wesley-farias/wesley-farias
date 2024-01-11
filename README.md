@@ -38,4 +38,4 @@
     </tr>
 </table>
 
-![snake animation](https://github.com/wesley-farias/wesley-farias/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/wesley-farias/wesley-farias/blob/output/github-contribution-grid-snake2.svg)
