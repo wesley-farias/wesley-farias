@@ -36,5 +36,6 @@
             </a>
         </td>
     </tr>
-             ![snake animation](https://github.com/wesley-farias/wesley-farias/blob/output/github-contribution-grid-snake.svg)
 </table>
+
+![snake animation](https://github.com/wesley-farias/wesley-farias/blob/output/github-contribution-grid-snake.svg)
