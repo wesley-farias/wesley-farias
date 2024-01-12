@@ -48,7 +48,9 @@
             <a href="https://github.com/wesley-farias#gh-light-mode-only">
               <img src="https://raw.githubusercontent.com/wesley-farias/wesley-farias/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/>
             </a>
-            ![snake animation](https://github.com/wesley-farias/wesley-farias/blob/output/github-contribution-grid-snake2.svg)
+          <tr>    
+            <td>![snake animation](https://github.com/wesley-farias/wesley-farias/blob/output/github-contribution-grid-snake2.svg)</td>        
+          </tr>
         </td>
     </tr>
 </table>
