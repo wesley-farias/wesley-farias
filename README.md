@@ -3,7 +3,7 @@
 <div class="eae-particle-wrapper " id="eae-particle-6328719">
 <canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1348" height="435">
 <div class="eae-particle-wrapper " id="eae-particle-6328719"><canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1348" height="435"></canvas></div>
-    
+
 <table align="center">
     <tr>
         <td align="center"><a href="https://github.com/wesley-farias#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=wesley-farias&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/wesley-farias#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=wesley-farias&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
@@ -20,9 +20,11 @@
     </tr>
 </table>
 
+<br>
+
 ## Softskill
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ### Frameworks & Library:
 
