@@ -1,4 +1,7 @@
-##  Hi, welcome in my profile!
+<h1> <span> Hi, welcome in my profile! </span> </h1>
+
+Sou fascinado por tecnologia e gosto de um desafio. Sou formado em Redes de computadores, onde além de aprender sobre informática básica e infraestrutura, obtive base sobre programação. Atualmente, estou fazendo graduação em Análise e Desenvolvimento de Sistemas e realizando cursos na área, buscando aprendizado e crescimento constante.
+
 
 <div class="eae-particle-wrapper " id="eae-particle-6328719">
 <canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1348" height="435">
