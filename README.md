@@ -1,7 +1,11 @@
 <h1> <span> Hi, welcome in my profile! </span> </h1>
 
-Sou fascinado por tecnologia e gosto de um desafio. Sou formado em Redes de computadores, onde além de aprender sobre informática básica e infraestrutura, obtive base sobre programação. Atualmente, estou fazendo graduação em Análise e Desenvolvimento de Sistemas e realizando cursos na área, buscando aprendizado e crescimento constante.
+<br>
 
+I'm fascinated by technology and I like a challenge. I have a degree in Computer Networks, where in addition to learning about basic computing and infrastructure, I gained a foundation in programming. Currently, I am studying for a degree in Systems Analysis and Development and taking courses in the area, seeking constant learning and growth.
+
+<br>
+<br>
 
 <div class="eae-particle-wrapper " id="eae-particle-6328719">
 <canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1348" height="435">
@@ -27,6 +31,8 @@ Sou fascinado por tecnologia e gosto de um desafio. Sou formado em Redes de comp
 
 ## Softskill
 
+<br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ### Frameworks & Library:
@@ -34,19 +40,21 @@ Sou fascinado por tecnologia e gosto de um desafio. Sou formado em Redes de comp
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-3CB371?style=for-the-badge&logo=vue.js&logoColor=61DAFB)&nbsp;
+
+<br>
 
 ### Languages:
 <div style="display: inline_block">
   
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-ff4000?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 <br>
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
 
 </div>
