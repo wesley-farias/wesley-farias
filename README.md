@@ -38,7 +38,7 @@ I'm fascinated by technology and I like a challenge. I have a degree in Computer
 ### Frameworks & Library:
 
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-3CB371?style=for-the-badge&logo=vue.js&logoColor=61DAFB)&nbsp;
 
